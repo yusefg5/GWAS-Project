@@ -17,13 +17,15 @@ Aaron Juco, Yusef Golzar, Rumyr Sobrepena, and Evelyn Umana
     - Updated demos of PLINK2 file formats (map/pd, bed/bim/fam, and pgen/pvar/psam)
 
     - Freshly formatted Github wiki with step-by-step screenshots, which will include locuszoom directions and interpretation
+ 
+    - Add demo for PCA plots. 
 
 
 # Non-Goals 
 
--To not make it specific towards any IDE
+- To not make it specific towards any IDE
 
--To not diverge too far from the simplicity in the original tutorial
+- To not diverge too far from the simplicity in the original tutorial
 
 
 # Proposed Solution 
