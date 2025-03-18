@@ -33,19 +33,19 @@ Aaron Juco, Yusef Golzar, Rumyr Sobrepena, and Evelyn Umana
 ![GWAS Workflow Diagram](https://github.com/user-attachments/assets/ee51b652-24f6-48c6-b875-5add208d3cd6)
 
 1. Update Data Files
-   a. 	Convert genotype data to a denser SNP set (hg38)
-   b. 	Create new phenotype files that align with new story
-   c. 	Instructing users on how to check the data they are running.
+- Convert genotype data to a denser SNP set (hg38)
+- Create new phenotype files that align with new story
+- Instructing users on how to check the data they are running.
 2. Modernize the GWAS Analysis Pipeline
-   a. 	Replace outdated tools with PLINK2 to support .pgen, .pvar, and .psam format.
+- Replace outdated tools with PLINK2 to support .pgen, .pvar, and .psam format.
 3. Improve Documentation
-   a. 	Move instructions from .Rmd/.html files to a structured Github Wiki.
-   b. 	Include step by step guide for Windows and Mac users with screenshots
+- Move instructions from .Rmd/.html files to a structured Github Wiki.
+- Include step by step guide for Windows and Mac users with screenshots
 4. Improve Data Visualization and Interpretation
-   a. 	Provide a LocusZoom tutorial for regional association plots.
-   b. 	Generate Manhattan and QQ plots for GWAS results.
+- Provide a LocusZoom tutorial for regional association plots.
+- Generate Manhattan and QQ plots for GWAS results.
 5. Complete Problem Set With New Data
-    a. Make new answer key. 
+- Make new answer key. 
 
 
 # Importance of Tasks 
