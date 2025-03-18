@@ -15,6 +15,8 @@ Aaron Juco, Yusef Golzar, Rumyr Sobrepena, and Evelyn Umana
 
 # Workflow 
 
+![GWAS Workflow Diagram](https://github.com/user-attachments/assets/ee51b652-24f6-48c6-b875-5add208d3cd6)
+
 # Importance of Tasks 
 
 #  Milestones 
