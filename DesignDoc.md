@@ -61,9 +61,9 @@ Steps:
 
 - Transform the phenotype in R
   
-Input: histogram of data
+    Input: histogram of data
 
-Output: normal distribution of histogram data
+    Output: normal distribution of histogram data
 
 - Perform a Shapiro-Wilk test and create plots
   
