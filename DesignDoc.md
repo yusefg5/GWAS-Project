@@ -61,45 +61,46 @@ Steps:
 
 - Transform the phenotype in R
   
-    Input: histogram of data
+        Input: histogram of data
 
-    Output: normal distribution of histogram data
+        Output: normal distribution of histogram data
 
 - Perform a Shapiro-Wilk test and create plots
   
-Input: histogram and table of dataset
+        Input: histogram and table of dataset
 
-Output: normal distribution analysis 
+        Output: normal distribution analysis 
 
 - Add phenotype data to data file
 - Run the GWAS using PLINK2
   
-Input: txt file and phenotype data
+        Input: txt file and phenotype data
 
-Output: GWAS “.log”, “.assoc.linear”, and “.assoc.linear.adjusted” files
+        Output: GWAS “.log”, “.assoc.linear”, and “.assoc.linear.adjusted” files
 
 - Make a Q-Q plot and Manhattan Plot in R
   
-Input: GWAS “.assoc.linear” file
+        Input: GWAS “.assoc.linear” file
 
-Output: Q-Q plot and Manhattan Plot of data
+        Output: Q-Q plot and Manhattan Plot of data
 
 - Use LocusZoom (http://locuszoom.org/) to plot regional association results from GWAS
   
-Input: GWAS “.assoc.linear” file
+        Input: GWAS “.assoc.linear” file
 
-Output: LocusZoom plots
+        Output: LocusZoom plots
+  
 -Make boxplot of top SNP using R
 
-Input: genotypes file
+        Input: genotypes file
 
-Output: Boxplot of top SNP
+        Output: Boxplot of top SNP
 
 -Make PCA plot of data using R 
 
-Input: genotype file 
+        Input: genotype file 
 
-Output: PCA plot
+        Output: PCA plot
 
 # Workflow 
 
