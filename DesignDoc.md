@@ -55,9 +55,9 @@ Steps:
 5. Visualize Results 
 - View distribution of our phenotype in R
 
-Input: txt file
+        Input: txt file
 
-Output: histogram of data
+        Output: histogram of data
 
 - Transform the phenotype in R
   
