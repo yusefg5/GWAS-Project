@@ -1,9 +1,18 @@
 # GWAS Workshop Project Design Document
 Aaron Juco, Yusef Golzar, Rumyr Sobrepena, and Evelyn Umana
 
-# Overview 
+# Overview
+Genome Wide Association Studies (GWAS) are studies that are extremely important in helping scientists identify what genes are associated with certain phenotypes. They have become more widely used in the past ten years as the technology has improved and become more popular. The method uses Single Nucleotide Polymorphisms (SNPs), which are small variations in the genome, as the variable being studied. Researchers gather the genomes of a large group of subjects, then identify SNPs that occur more frequently in the genomes of people with the desired phenotype. GWAS is extremely efficient in that it can observe hundreds of thousands of SNPs at the same time. Once SNPs identified with certain diseases have been identified, this information can be used to help determine an individual's likelihood of developing a disease. GWAS has also been used to assess what an individual's response to a drug may be (Medline Genetics). An important statistic in GWAS is Linkage Disequilibrium (LD), which can be used to pre-screen the genome and select SNPs for genotyping. Linkage disequilibrium simply refers to how often two alleles are observed together within a population (Pritchard and Przeworski). 
+
 
 # References 
+Pritchard, J K, and M Przeworski. “Linkage disequilibrium in humans: models and data.” 
+American journal of human genetics vol. 69,1 (2001): 1-14. doi:10.1086/321275
+
+“What Are Genome-Wide Association Studies?: Medlineplus Genetics.” MedlinePlus, U.S. National Library of Medicine, 
+medlineplus.gov/genetics/understanding/genomicresearch/gwastudies/#:~:text=Genome
+%2Dwide%20association%20studies%20(GWAS,(pronounced%20“snips”). Accessed 16 
+Mar. 2025. 
 
 # Context 
 We were presented with a 10+ year old tutorial that trains new students from Dr. Wheeler’s lab to use GWAS research methods essential for her lab. Genome-wide association studies (GWAS) is a fundamental tool in genetics. It allows researchers to identify genetic variants associated with traits or diseases. Conducting GWAS correctly requires an updated workflow, proper data formats, and modernized tools to ensure reproducible results. The current GWAS workshop in Dr. Wheeler’s lab has not been updated in over 10+ years and relies on older SNP genotypes and an old version of software. To modernize and improve the GWAS workshop we are going to update the genotype data, use PLINK2, improve documentation, and add demos on PCA plots. Many students enter Dr. Wheeler’s lab with limited computational experience. By structuring the GWAS workshop as a guided tutorial we can ensure that students can conduct GWAS effectively. By updating the genotype data, analysis tool, documentation, and visualization pipeline we will create a structured and effective training resource for students.
