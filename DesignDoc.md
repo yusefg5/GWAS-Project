@@ -90,13 +90,13 @@ Steps:
 
         Output: LocusZoom plots
   
--Make boxplot of top SNP using R
+- Make boxplot of top SNP using R
 
         Input: genotypes file
 
         Output: Boxplot of top SNP
 
--Make PCA plot of data using R 
+- Make PCA plot of data using R 
 
         Input: genotype file 
 
