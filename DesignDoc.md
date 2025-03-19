@@ -2,6 +2,7 @@
 Aaron Juco, Yusef Golzar, Rumyr Sobrepena, and Evelyn Umana
 
 # Overview 
+Genome Wide Association Studies (GWAS) are studies that are extremely important in helping scientists identify what genes are associated with certain phenotypes. They have become more widely used in the past ten years as the technology has improved and become more popular. The method uses Single Nucleotide Polymorphisms (SNPs), which are small variations in the genome, as the variable being studied. Researchers gather the genomes of a large group of subjects, then identify SNPs that occur more frequently in the genomes of people with the desired phenotype. GWAS is extremely efficient in that it can observe hundreds of thousands of SNPs at the same time. Once SNPs identified with certain diseases have been identified, this information can be used to help determine an individual's likelihood of developing a disease. GWAS has also been used to assess what an individual's response to a drug may be (Medline Genetics). An important statistic in GWAS is Linkage Disequilibrium (LD), which can be used to pre-screen the genome and select SNPs for genotyping. Linkage disequilibrium simply refers to how often two alleles are observed together within a population (Pritchard and Przeworski). 
 
 # References 
 
