@@ -116,8 +116,10 @@ Steps:
 - Convert genotype data to a denser SNP set (hg38)
 - Create new phenotype files that align with new story
 - Instructing users on how to check the data they are running.
+- NEW: Add log2 phenotype to our data file
 2. Modernize the GWAS Analysis Pipeline
 - Replace outdated tools with PLINK2 to support .pgen, .pvar, and .psam format.
+- NEW: Use updated GWAS demo provided by Dr. Wheeler
 3. Improve Documentation
 - Move instructions from .Rmd/.html files to a structured Github Wiki.
 - Include step by step guide for Windows and Mac users with screenshots
