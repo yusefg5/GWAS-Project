@@ -45,21 +45,21 @@ We were presented with a 10+ year old tutorial that trains new students from Dr.
 
 
 # Proposed Solution 
-Steps:
-1. Create New story for new phenotype
-2. Create wiki in the GitHub repo
-3. Write tutorial on the following using Mac OS X and Windows Powershell:
-- GWAS Introduction
-- Install R and R studio
-- Download GWAS data
-- Download the GWAS_workshop2.zip file from https://github/evumana/GWAS-Project
-4. Modernize the Analysis Pipeline with the following:
-- Install PLINK2
-- Download: https://www.cog-genomics.org/plink/2.0/
-- Test PLINK2
-- Introduction to dataset
-5. Visualize Results 
-- View distribution of our phenotype in R
+1. Update Data Files
+- Convert genotype data to a denser SNP set (hg38)
+- Create new phenotype files that align with new story
+- Instructing users on how to check the data they are running.
+3. Modernize the GWAS Analysis Pipeline
+- Replace outdated tools with PLINK2 to support .pgen, .pvar, and .psam    format.
+- Implement GWAS_demo with new data 
+4. Improve Documentation
+- Move instructions from .Rmd/.html files to a structured Github Wiki.
+- Include step by step guide, one for Windows and one for Mac users, both with screenshots
+5. Improve Data Visualization and Interpretation
+- Provide a LocusZoom tutorial for regional association plots.
+- Generate Manhattan and QQ plots for GWAS results.
+- Include histogram and gg plot of phenotype of and PCAs, respectively
+- Perform Shapiro Wilk normalization test for data interpretation
 
         Input: txt file
 
@@ -139,4 +139,6 @@ Steps:
 
 #  Milestones 
 
-<img width="724" alt="Screen Shot 2025-03-18 at 9 47 18 AM" src="https://github.com/user-attachments/assets/23c95180-31a0-41ca-8fec-81b253c21d91" />
+<img width="373" alt="image" src="https://github.com/user-attachments/assets/aa32b724-f539-4731-9cd6-17fa9a11a047" />
+
+<img width="374" alt="image" src="https://github.com/user-attachments/assets/16dc7e6a-1f3a-4fda-aa0b-44af1747c63a" />
